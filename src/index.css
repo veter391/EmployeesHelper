@@ -13,3 +13,6 @@ code {
     monospace;
 }
 
+#root, body {
+  min-width: 460px;
+}
